@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Main.java – gestisco la blockchain creando nuovi nodi o verificando l'inrtegrita della catena
- * @author Bucigno Andrea
+ * @author Brugiati Giulio
  * @see Block
  * @see Blockchain
  */
